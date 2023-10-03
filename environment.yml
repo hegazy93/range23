@@ -3,3 +3,4 @@ name: range-env
   - flake8
   - pytest
   - black
+  - cookiecutter
