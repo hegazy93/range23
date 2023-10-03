@@ -1,0 +1,5 @@
+name: range-env
+  - python
+  - flake8
+  - pytest
+  - black
